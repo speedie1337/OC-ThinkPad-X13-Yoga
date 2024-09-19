@@ -2,6 +2,12 @@
 
 OpenCore EFI for the ThinkPad X13 Yoga.
 
+**For Sonoma support, see the *sonoma* branch.**
+
+**For Seqouia support, see the *sequoia* branch.**
+
+**For the latest version supported, see the *main* branch.**
+
 ## Specs
 
 - CPU: Intel Core i7 10510U
